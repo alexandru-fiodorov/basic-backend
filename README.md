@@ -2,13 +2,13 @@ Asteroid API
 ============
 
 ### Project requirements
-php >= 7.0
-php-mongodb
-mongodb >= 3.2
-phpunit >= 5.7
+php >= 7.0  
+php-mongodb  
+mongodb >= 3.2  
+phpunit >= 5.7  
 
 ### Installation instructions:
-`composer install`
+`composer install`  
 `php bin/console populate`
 
 ### Running tests
